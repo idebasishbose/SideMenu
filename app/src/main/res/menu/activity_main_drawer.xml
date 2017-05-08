@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_med_list"
+        android:icon="@drawable/ic_menu_med_list"
+        android:title="Medication list"/>
+    <item
+        android:id="@+id/nav_health_appo"
+        android:icon="@drawable/ic_menu_health_appo"
+        android:title="Healthcare appointments"/>
+    <item
+        android:id="@+id/nav_trigger_log"
+        android:icon="@drawable/ic_menu_trigger_log"
+        android:title="Trigger log"/>
+
+  </group>
+  <item
+      android:id="@+id/nav_manage"
+      android:icon="@drawable/ic_menu_how_to"
+      android:title="How to...">
+  </item>
+  <item
+      android:id="@+id/navigation_subheader"
+      android:title="-">
+    <menu>
+      <item
+          android:id="@+id/nav_visit_logs"
+          android:icon="@drawable/ic_menu_gallery"
+          android:title="ED visits logs"/>
+      <item
+          android:id="@+id/nav_key_info"
+          android:icon="@drawable/ic_menu_info"
+          android:title="Key information"/>
+    </menu>
+  </item>
+
+</menu>

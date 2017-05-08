@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="26dp"
+    android:viewportWidth="24"
+    android:viewportHeight="26">
+
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M 5.63142857 14.8656444 H 7.45628571 V 16.71077773 H 5.63142857 V 14.8656444 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M 9.28142857 14.8656444 H 11.10628571 V 16.71077773 H 9.28142857 V 14.8656444 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M 12.9311429 14.8656444 H 14.75600004 V 16.71077773 H 12.9311429 V 14.8656444 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M 16.5811429 18.5559111 H 18.40600004 V 20.40104443 H 16.5811429 V 18.5559111 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M 5.63142857 18.5559111 H 7.45628571 V 20.40104443 H 5.63142857 V 18.5559111 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M 9.28142857 18.5559111 H 11.10628571 V 20.40104443 H 9.28142857 V 18.5559111 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M 12.9311429 18.5559111 H 14.75600004 V 20.40104443 H 12.9311429 V 18.5559111 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M 16.5811429 14.8656444 H 18.40600004 V 16.71077773 H 16.5811429 V 14.8656444 Z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M18.406,1.94913333 L18.406,0.104 L16.5811429,0.104 L16.5811429,1.94913333
+L7.45657143,1.94913333 L7.45657143,0.104 L5.63142857,0.104
+L5.63142857,1.94913333 L0.156857143,1.94913333 L0.156857143,25.9367333
+L23.8808571,25.9367333 L23.8808571,1.94913333 L18.406,1.94913333 Z
+M22.0557143,24.0916 L1.98171429,24.0916 L1.98171429,11.1753778
+L22.0557143,11.1753778 L22.0557143,24.0916 Z M22.0557143,9.32995556
+L1.98171429,9.32995556 L1.98171429,3.79455556 L5.63142857,3.79455556
+L5.63142857,5.63968889 L7.45628571,5.63968889 L7.45628571,3.79455556
+L16.5808571,3.79455556 L16.5808571,5.63968889 L18.4057143,5.63968889
+L18.4057143,3.79455556 L22.0554286,3.79455556 L22.0554286,9.32995556
+L22.0557143,9.32995556 Z" />
+</vector>
